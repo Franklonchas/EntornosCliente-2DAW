@@ -42,3 +42,21 @@ function sumEveryOther(args) {
     }
     return cont;
 }
+
+/*Write a function called onlyUniques that can take in any number of arguments, and returns an array of only the unique arguments.*/
+
+function onlyUniques(...args) {
+    let arrayUnique = [];
+    for (let i = 0; i < args.length; i++) {
+        let x = args[i];
+        let existe = false;
+        for (let j = 0; j < arrayUnique.length; j++) {
+            if (x == arrayUnique[j])
+                existe = true;
+        }
+        if (existe == false) {
+            arrayUnique.push(args[i]);
+        }
+    }
+    return arrayUnique;
+}
