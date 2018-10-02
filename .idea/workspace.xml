@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7b5e708-675a-4a37-be3c-f45e605f877b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tema 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/WS1/ws1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 2/WS1/ws1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/WS1/ws1js.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 2/WS1/ws1js.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,67 +19,80 @@
     <session id="1642183346">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="165" />
+          <entry key="html" value="174" />
+          <entry key="js" value="1069" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="165" />
+          <entry key="HTML" value="174" />
+          <entry key="JavaScript" value="1069" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
     <session id="-1948943715">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="1" />
-          <entry key="js" value="3" />
+          <entry key="html" value="4" />
+          <entry key="js" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="3" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="7" />
-          <entry key="html" value="8" />
-          <entry key="js" value="96" />
+          <entry key="html" value="88" />
+          <entry key="js" value="1672" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="7" />
-          <entry key="HTML" value="8" />
-          <entry key="JavaScript" value="96" />
+          <entry key="HTML" value="88" />
+          <entry key="JavaScript" value="1672" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -86,44 +100,13 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1js.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -135,9 +118,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Tema 2/WS1/ws1js.css" />
-        <option value="$PROJECT_DIR$/Tema 2/WS1/ws1js.js" />
-        <option value="$PROJECT_DIR$/Tema 2/WS1/ws1.html" />
         <option value="$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js" />
+        <option value="$PROJECT_DIR$/Tema 2/WS1/ws1.html" />
+        <option value="$PROJECT_DIR$/Tema 2/WS1/ws1js.js" />
+        <option value="$PROJECT_DIR$/Tema 2/WS2/ws2.html" />
+        <option value="$PROJECT_DIR$/Tema 2/WS2/ws2js.js" />
+        <option value="$PROJECT_DIR$/Tema 2/WS3/ws3.html" />
+        <option value="$PROJECT_DIR$/Tema 2/WS3/ws3js.js" />
+        <option value="$PROJECT_DIR$/Tema 2/WS4/ws4.html" />
+        <option value="$PROJECT_DIR$/Tema 2/WS6/ws6js.js" />
+        <option value="$PROJECT_DIR$/Tema 2/WS6/ws6.html" />
+        <option value="$PROJECT_DIR$/Tema 2/WS4/ws4js.js" />
       </list>
     </option>
   </component>
@@ -168,24 +159,7 @@
             <path>
               <item name="Entornos Cliente" type="b2602c69:ProjectViewProjectNode" />
               <item name="Entornos Cliente" type="462c0819:PsiDirectoryNode" />
-              <item name="Tema 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Entornos Cliente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Entornos Cliente" type="462c0819:PsiDirectoryNode" />
-              <item name="Tema 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Slides 5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Entornos Cliente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Entornos Cliente" type="462c0819:PsiDirectoryNode" />
               <item name="Tema 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Entornos Cliente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Entornos Cliente" type="462c0819:PsiDirectoryNode" />
-              <item name="Tema 2" type="462c0819:PsiDirectoryNode" />
-              <item name="WS1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,17 +213,23 @@
       <workItem from="1537910929744" duration="1006000" />
       <workItem from="1537912307772" duration="778000" />
       <workItem from="1537956595518" duration="1623000" />
+      <workItem from="1538266009134" duration="16000" />
+      <workItem from="1538266063179" duration="978000" />
+      <workItem from="1538298877386" duration="3914000" />
+      <workItem from="1538375139283" duration="5793000" />
+      <workItem from="1538391217723" duration="5601000" />
+      <workItem from="1538465665735" duration="2422000" />
+      <workItem from="1538472235770" duration="2087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3879000" />
+    <option name="totallyTimeSpent" value="24690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-7" width="1488" height="878" extended-state="7" />
-    <editor active="true" />
+    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1164714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115782216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,14 +262,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1js.css">
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1js.css" />
+    <entry file="file://$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        <state relative-caret-position="836">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS2/ws2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/WS#3/funciones.js" />
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS3/ws3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -298,18 +294,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        <state relative-caret-position="920">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS2/ws2js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS3/ws3js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS6/ws6js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js">
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS6/ws6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        <state relative-caret-position="92">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS4/ws4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 2/WS4/ws4js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
