@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<style>
+
+    input:focus,
+    input:active {
+        border-bottom: 1px solid #000;
+    }
+
+</style>
+
+<body>
+
+<form>
+    Nombre:<br>
+    <input type="text" name="firstname">
+    <br>
+    Apellidos:<br>
+    <input type="text" name="lastname">
+    <br>
+    DNI:<br>
+    <input type="text" name="firstname">
+    <br>
+    Telefono:<br>
+    <input type="text" name="lastname">
+    <br>
+    Email:<br>
+    <input type="text" name="email" id="correo" onkeyup="validateEmail()">
+    <br>
+    Nombre de usuario:<br>
+    <input type="text" name="nickname" id="nick" onkeyup="comprobar()">
+</form>
+
+</body>
+<script src="ws3js.js"></script>
+</html>
