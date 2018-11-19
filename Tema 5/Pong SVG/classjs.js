@@ -20,7 +20,7 @@ export class Pelota {
         this.miTag.setAttribute("r", this.r);
         this.miTag.setAttribute("stroke", "black");
         this.miTag.setAttribute("stroke-width", "3");
-        this.miTag.setAttribute("fill", "red");
+        this.miTag.setAttribute("fill", "#ffcc66");
 
         //add html
         document.getElementById("campo").appendChild(this.miTag);
@@ -83,13 +83,13 @@ export class Pelota {
     checkGolaso() {
 
         if (this.bolax - this.r === 0) {
-            this.cont1++;
+            this.cont2++;
             this.setCoord();
             console.log("Contador1= " + this.cont1);
             return false;
 
         } else if (this.bolax + this.r === 800) {
-            this.cont2++;
+            this.cont1++;
             this.setCoord();
             console.log("Contador2= " + this.cont2);
             return false;
@@ -130,18 +130,4 @@ export class Rectangulo {
         document.getElementById("campo").appendChild(this.mirect);
 
     }
-}
-
-export class Contador {
-
-    constructor(player1, player2) {
-        this.player1 = player1;
-        this.player2 = player2;
-    }
-
-    mostrar() {
-        document.getElementById("player1").innerHTML = this.player1;
-        document.getElementById("player2").innerHTML = this.player2;
-    }
-
 }

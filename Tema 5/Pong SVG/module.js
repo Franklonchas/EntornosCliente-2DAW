@@ -1,16 +1,17 @@
 // Imports
 import {Pelota} from "./classjs.js";
 import {Rectangulo} from "./classjs.js";
-import {Contador} from "./classjs.js";
 
 // Creacion de objetos
 var pelota = new Pelota(20, 300, 200);
-var rect1 = new Rectangulo(30, 300, "rect1", "fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)");
-var rect2 = new Rectangulo(750, 300, "rect2", "fill:rgb(0,255,0);stroke-width:3;stroke:rgb(0,0,0)");
-var contador = new Contador("Fran", "sergio");
+var rect1 = new Rectangulo(30, 300, "rect1", "fill:rgb(102,204,255);stroke-width:3;stroke:rgb(0,0,0)");
+var rect2 = new Rectangulo(750, 300, "rect2", "fill:rgb(255,80,80);stroke-width:3;stroke:rgb(0,0,0)");
+
 
 //code module
 var bucle = setInterval(() => {
+    document.getElementById("player1").innerHTML = "Jugador1: " + pelota.cont1;
+    document.getElementById("player2").innerHTML = "Jugador2: " + pelota.cont2;
     if (pelota.mover(rect1.rectx, rect1.recty, rect2.rectx, rect2.recty))
         clearInterval(bucle);
 }, 22);
@@ -38,5 +39,3 @@ window.addEventListener("keypress", (event) => {
     }
 
 });
-
-contador.mostrar();
