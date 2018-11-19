@@ -7,6 +7,8 @@ export class Pelota {
         this.d = 5;
         this.dx = this.d;
         this.dy = this.d;
+        this.cont1 = 0;
+        this.cont2 = 0;
 
         // creacion the tags
         this.miTag = document.createElementNS("http://www.w3.org/2000/svg", "circle");
@@ -26,8 +28,9 @@ export class Pelota {
     }
 
     mover(rect1x, rect1y, rect2x, rect2y) {
-
-        if (this.checkposition(rect1x, rect1y, rect2x, rect2y)) {
+        if (this.checkGolaso()) {
+            return true;
+        } else if (this.checkposition(rect1x, rect1y, rect2x, rect2y)) {
             console.log("BOING!");
         } else if (this.bolay + this.r >= 600) {
             this.dy = -this.d;
@@ -38,11 +41,11 @@ export class Pelota {
         }
 
         if (this.bolax + this.r >= 800) {
-            this.dx = -this.d
+            this.dx = -this.d;
         }
 
         if (this.bolax - this.r <= 0) {
-            this.dx = this.d
+            this.dx = this.d;
         }
 
         this.bolax += this.dx;
@@ -69,11 +72,45 @@ export class Pelota {
         }
         return false;
     }
+
+    setCoord() {
+        this.bolax = 300;
+        this.bolay = 200;
+        this.miTag.setAttribute("cx", this.bolax);
+        this.miTag.setAttribute("cy", this.bolay);
+    }
+
+    checkGolaso() {
+
+        if (this.bolax - this.r === 0) {
+            this.cont1++;
+            this.setCoord();
+            console.log("Contador1= " + this.cont1);
+            return false;
+
+        } else if (this.bolax + this.r === 800) {
+            this.cont2++;
+            this.setCoord();
+            console.log("Contador2= " + this.cont2);
+            return false;
+        }
+
+        if (this.cont1 !== 5 || this.cont2 !== 5) {
+            if (this.cont1 === 5) {
+                console.log("EL JUGADOR 1 HA GANADO!");
+                return true;
+            }
+            if (this.cont2 === 5) {
+                console.log("EL JUGADOR 2 HA GANADO!");
+                return true;
+            }
+        }
+    }
 }
 
 export class Rectangulo {
 
-    constructor(x, y, id,style) {
+    constructor(x, y, id, style) {
         this.rectx = x;
         this.recty = y;
         this.id = id;
@@ -100,13 +137,11 @@ export class Contador {
     constructor(player1, player2) {
         this.player1 = player1;
         this.player2 = player2;
-        this.cont1 = 0;
-        this.cont2 = 0;
-
     }
 
-    checkGol() {
-
+    mostrar() {
+        document.getElementById("player1").innerHTML = this.player1;
+        document.getElementById("player2").innerHTML = this.player2;
     }
 
 }

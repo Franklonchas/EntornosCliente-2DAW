@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b7b5e708-675a-4a37-be3c-f45e605f877b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -13,125 +16,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1642183346">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="29" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.26" value="2" />
-          <entry key="project.open.time.3" value="4" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="29" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="7" />
-          <entry key="js" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="7" />
-          <entry key="JavaScript" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="506" />
-          <entry key="js" value="4318" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="506" />
-          <entry key="JavaScript" value="4318" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="-1948943715">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="52" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="4" />
-          <entry key="project.open.time.15" value="9" />
-          <entry key="project.open.time.16" value="5" />
-          <entry key="project.open.time.17" value="4" />
-          <entry key="project.open.time.18" value="4" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="4" />
-          <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="4" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="52" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="28" />
-          <entry key="js" value="52" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="28" />
-          <entry key="JavaScript" value="52" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="7" />
-          <entry key="html" value="1482" />
-          <entry key="js" value="11702" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="7" />
-          <entry key="HTML" value="1482" />
-          <entry key="JavaScript" value="11701" />
-          <entry key="RegExp" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="123" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="123" />
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -139,17 +30,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+            <state relative-caret-position="640">
+              <caret line="142" column="68" lean-forward="true" selection-start-line="142" selection-start-column="68" selection-end-line="142" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+            <state relative-caret-position="943">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
               <folding>
                 <element signature="e#11#47#0" expanded="true" />
               </folding>
@@ -236,17 +127,13 @@
         <option value="$PROJECT_DIR$/Examen 1-4/index.html" />
         <option value="$PROJECT_DIR$/Tema 5/Pong SVG/indexjs.js" />
         <option value="$PROJECT_DIR$/Examen 1-4/ejer.js" />
-        <option value="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" />
+        <option value="$PROJECT_DIR$/Tema 5/Practica 2/index.html" />
+        <option value="$PROJECT_DIR$/Tema 5/Practica 2/script.js" />
         <option value="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" />
         <option value="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" />
+        <option value="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="290" />
@@ -259,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,6 +168,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,7 +193,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="slides5js.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="slides5js.js" working-dir="$PROJECT_DIR$/Tema 1/Slides 5">
+    <configuration name="slides5js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="slides5js.js" working-dir="$PROJECT_DIR$/Tema 1/Slides 5">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -406,16 +293,22 @@
       <workItem from="1542275031964" duration="1212000" />
       <workItem from="1542279293598" duration="2354000" />
       <workItem from="1542391965172" duration="2239000" />
+      <workItem from="1542550210028" duration="3879000" />
+      <workItem from="1542614184421" duration="3475000" />
+      <workItem from="1542629229311" duration="5096000" />
+      <workItem from="1542650209268" duration="67000" />
+      <workItem from="1542650484790" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180901000" />
+    <option name="totallyTimeSpent" value="194293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10784314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10729848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -436,9 +329,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tema 1/WS5/ws5js.js">
@@ -646,27 +536,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/module.js">
+    <entry file="file://$PROJECT_DIR$/Tema 5/Practica 2/index.html" />
+    <entry file="file://$PROJECT_DIR$/Tema 5/Practica 2/script.js" />
+    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
-          <folding>
-            <element signature="e#11#47#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        <state relative-caret-position="640">
+          <caret line="142" column="68" lean-forward="true" selection-start-line="142" selection-start-column="68" selection-end-line="142" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
+    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="123" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="123" />
+        <state relative-caret-position="943">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="e#11#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
