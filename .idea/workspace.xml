@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7b5e708-675a-4a37-be3c-f45e605f877b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" afterDir="false" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="368">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="68" column="33" lean-forward="true" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+            <state relative-caret-position="989">
+              <caret line="106" column="35" lean-forward="true" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#11#47#0" expanded="true" />
               </folding>
@@ -296,23 +297,26 @@
       <workItem from="1542614184421" duration="3475000" />
       <workItem from="1542629229311" duration="5096000" />
       <workItem from="1542650209268" duration="67000" />
-      <workItem from="1542650484790" duration="11275000" />
+      <workItem from="1542650484790" duration="11550000" />
+      <workItem from="1542698780405" duration="39000" />
+      <workItem from="1542698970880" duration="1735000" />
+      <workItem from="1542714857511" duration="1269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204693000" />
+    <option name="totallyTimeSpent" value="208011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10729848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10682288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29746836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29722223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,27 +541,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema 5/Practica 2/index.html" />
     <entry file="file://$PROJECT_DIR$/Tema 5/Practica 2/script.js" />
+    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#11#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="68" column="33" lean-forward="true" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        <state relative-caret-position="989">
+          <caret line="106" column="35" lean-forward="true" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
         </state>
       </provider>
     </entry>

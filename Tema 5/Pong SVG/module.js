@@ -10,8 +10,11 @@ var rect2 = new Rectangulo(750, 300, "rect2", "fill:rgb(255,80,80);stroke-width:
 
 //code module
 var bucle = setInterval(() => {
-    document.getElementById("player1").innerHTML = "Jugador1: " + pelota.cont1;
+    document.getElementById("player1").innerHTML = "Jugador1: " + pelota.cont1 + " - ";
+    document.getElementById("player1").style.color = "#66CCFF";
     document.getElementById("player2").innerHTML = "Jugador2: " + pelota.cont2;
+    document.getElementById("player2").style.color = "#FF5050";
+
     if (pelota.mover(rect1.rectx, rect1.recty, rect2.rectx, rect2.recty))
         clearInterval(bucle);
 }, 22);

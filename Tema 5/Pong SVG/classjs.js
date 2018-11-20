@@ -98,10 +98,18 @@ export class Pelota {
         if (this.cont1 !== 5 || this.cont2 !== 5) {
             if (this.cont1 === 5) {
                 console.log("EL JUGADOR 1 HA GANADO!");
+                document.getElementById("player1").innerHTML = "EL JUGADOR 1 HA GANADO LA PARTIDA!";
+                document.getElementById("player2").innerHTML = "";
+                document.getElementById("player1").style.color = "#66CCFF";
+                document.getElementById("player1").style.fontSize = "30-large";
                 return true;
             }
             if (this.cont2 === 5) {
                 console.log("EL JUGADOR 2 HA GANADO!");
+                document.getElementById("player1").innerHTML = "EL JUGADOR 2 HA GANADO LA PARTIDA!";
+                document.getElementById("player2").innerHTML = "";
+                document.getElementById("player1").style.color = "#FF5050";
+                document.getElementById("player1").style.fontSize = "30-large";
                 return true;
             }
         }
