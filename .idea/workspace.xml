@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b7b5e708-675a-4a37-be3c-f45e605f877b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,31 +18,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
+        <entry file="file://$PROJECT_DIR$/Tema 5/WS4/ws4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="115">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
+        <entry file="file://$PROJECT_DIR$/Tema 5/WS4/ws4js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="989">
-              <caret line="106" column="35" lean-forward="true" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#11#47#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="515">
+              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -130,8 +121,10 @@
         <option value="$PROJECT_DIR$/Tema 5/Practica 2/index.html" />
         <option value="$PROJECT_DIR$/Tema 5/Practica 2/script.js" />
         <option value="$PROJECT_DIR$/Tema 5/Pong SVG/module.js" />
-        <option value="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" />
         <option value="$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js" />
+        <option value="$PROJECT_DIR$/Tema 5/Pong SVG/index.html" />
+        <option value="$PROJECT_DIR$/Tema 5/WS4/ws4.html" />
+        <option value="$PROJECT_DIR$/Tema 5/WS4/ws4js.js" />
       </list>
     </option>
   </component>
@@ -162,7 +155,7 @@
               <item name="Entornos Cliente" type="b2602c69:ProjectViewProjectNode" />
               <item name="Entornos Cliente" type="462c0819:PsiDirectoryNode" />
               <item name="Tema 5" type="462c0819:PsiDirectoryNode" />
-              <item name="Pong SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="WS4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,18 +293,20 @@
       <workItem from="1542650484790" duration="11550000" />
       <workItem from="1542698780405" duration="39000" />
       <workItem from="1542698970880" duration="1735000" />
-      <workItem from="1542714857511" duration="1269000" />
+      <workItem from="1542714857511" duration="3906000" />
+      <workItem from="1542721334257" duration="60000" />
+      <workItem from="1542792147713" duration="1654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208011000" />
+    <option name="totallyTimeSpent" value="212362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10682288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10682288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,13 +329,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tema 1/WS5/ws5js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="115" column="13" lean-forward="true" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tema 2/WS1/ws1js.css" />
     <entry file="file://$PROJECT_DIR$/Tema 1/Slides 5/slides5js.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -525,13 +513,6 @@
     <entry file="file://$PROJECT_DIR$/Tema 5/Modulos practica/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/indexjs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Examen 1-4/ejer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -541,10 +522,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema 5/Practica 2/index.html" />
     <entry file="file://$PROJECT_DIR$/Tema 5/Practica 2/script.js" />
+    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/indexjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="423">
+          <caret line="31" column="102" lean-forward="true" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2093">
+          <caret line="106" column="35" lean-forward="true" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -558,10 +553,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema 5/Pong SVG/classjs.js">
+    <entry file="file://$PROJECT_DIR$/Tema 5/WS4/ws4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="106" column="35" lean-forward="true" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+        <state relative-caret-position="115">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema 5/WS4/ws4js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>
     </entry>
