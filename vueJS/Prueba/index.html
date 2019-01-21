@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<ul id="app">
+    <div id="components-demo">
+        <button-counter></button-counter>
+    </div>
+    <br>
+    <form v-on:submit.prevent="addNewTodo">
+        <label for="new-todo">Add a todo</label>
+        <input
+                v-model="newTodoText"
+                id="new-todo"
+                placeholder="Hacer ejercicios DAW..."
+        >
+        <button>Add</button>
+    </form>
+    <div >
+        Hay {{items.length}} tareas en tu lista de tareas.
+    </div>
+    <div>
+        Hay {{ completadas }} tareas completadas en tu lista de tareas.
+    </div>
+    <br>
+    <li v-for="item in items">
+        {{ item.tarea }} - {{ item.prioridad }} - {{item.fecha_creacion}} - {{ item.completada }}
+    </li>
+</ul>
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="script.js"></script>
+</html>

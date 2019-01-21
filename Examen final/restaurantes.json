@@ -1,0 +1,22 @@
+{
+  "restaurantes": [
+    {
+      "nombre": "La tasca",
+      "direccion": "Recogidas n13",
+      "url": "www.latasca.com",
+      "imagen": "imagen.jpg"
+    },
+    {
+      "nombre": "Meson Jose",
+      "direccion": "Arabial n13",
+      "url": "www.mesonjose.com",
+      "imagen": "imagenjpg"
+    },
+    {
+      "nombre": "Restaurante JSON ",
+      "direccion": "Angel Ganivet n13",
+      "url": "www.jsonxd.com",
+      "imagen": "imagen.jpg"
+    }
+  ]
+}
